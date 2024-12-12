@@ -1,0 +1,7 @@
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 11-20\T13 Elevator\bin\Debug\T13 Elevator.exe.config
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 11-20\T13 Elevator\bin\Debug\T13 Elevator.exe
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 11-20\T13 Elevator\bin\Debug\T13 Elevator.pdb
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 11-20\T13 Elevator\obj\Debug\T13 Elevator.csproj.AssemblyReference.cache
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 11-20\T13 Elevator\obj\Debug\T13 Elevator.csproj.CoreCompileInputs.cache
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 11-20\T13 Elevator\obj\Debug\T13 Elevator.exe
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 11-20\T13 Elevator\obj\Debug\T13 Elevator.pdb

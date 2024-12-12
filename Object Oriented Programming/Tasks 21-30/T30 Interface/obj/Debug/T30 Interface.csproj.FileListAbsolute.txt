@@ -1,0 +1,7 @@
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 21-30\T30 Interface\bin\Debug\T30 Interface.exe.config
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 21-30\T30 Interface\bin\Debug\T30 Interface.exe
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 21-30\T30 Interface\bin\Debug\T30 Interface.pdb
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 21-30\T30 Interface\obj\Debug\T30 Interface.csproj.AssemblyReference.cache
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 21-30\T30 Interface\obj\Debug\T30 Interface.csproj.CoreCompileInputs.cache
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 21-30\T30 Interface\obj\Debug\T30 Interface.exe
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 21-30\T30 Interface\obj\Debug\T30 Interface.pdb

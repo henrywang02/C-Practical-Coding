@@ -1,0 +1,7 @@
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 1-10\T9 Vehicle\obj\Debug\T9 Vehicle.csproj.AssemblyReference.cache
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 1-10\T9 Vehicle\obj\Debug\T9 Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 1-10\T9 Vehicle\bin\Debug\T9 Vehicle.exe.config
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 1-10\T9 Vehicle\bin\Debug\T9 Vehicle.exe
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 1-10\T9 Vehicle\bin\Debug\T9 Vehicle.pdb
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 1-10\T9 Vehicle\obj\Debug\T9 Vehicle.exe
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 1-10\T9 Vehicle\obj\Debug\T9 Vehicle.pdb

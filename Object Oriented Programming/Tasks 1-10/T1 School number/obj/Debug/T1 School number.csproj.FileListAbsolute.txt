@@ -1,0 +1,7 @@
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 1-10\T1 School number\bin\Debug\T1 School number.exe.config
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 1-10\T1 School number\bin\Debug\T1 School number.exe
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 1-10\T1 School number\bin\Debug\T1 School number.pdb
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 1-10\T1 School number\obj\Debug\T1 School number.csproj.AssemblyReference.cache
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 1-10\T1 School number\obj\Debug\T1 School number.csproj.CoreCompileInputs.cache
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 1-10\T1 School number\obj\Debug\T1 School number.exe
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 1-10\T1 School number\obj\Debug\T1 School number.pdb

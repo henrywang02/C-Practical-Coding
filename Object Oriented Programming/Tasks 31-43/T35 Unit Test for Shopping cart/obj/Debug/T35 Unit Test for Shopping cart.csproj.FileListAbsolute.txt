@@ -1,0 +1,7 @@
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 31-43\T35 Unit Test for Shopping cart\bin\Debug\T35 Unit Test for Shopping cart.exe.config
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 31-43\T35 Unit Test for Shopping cart\bin\Debug\T35 Unit Test for Shopping cart.exe
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 31-43\T35 Unit Test for Shopping cart\bin\Debug\T35 Unit Test for Shopping cart.pdb
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 31-43\T35 Unit Test for Shopping cart\obj\Debug\T35 Unit Test for Shopping cart.csproj.AssemblyReference.cache
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 31-43\T35 Unit Test for Shopping cart\obj\Debug\T35 Unit Test for Shopping cart.csproj.CoreCompileInputs.cache
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 31-43\T35 Unit Test for Shopping cart\obj\Debug\T35 Unit Test for Shopping cart.exe
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 31-43\T35 Unit Test for Shopping cart\obj\Debug\T35 Unit Test for Shopping cart.pdb

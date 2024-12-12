@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PHAT\\mycomputer\\Study Path\\JAMK-STUDY\\Autumn 2024\\Object Oriented Programming\\ttc8440\\Tasks 31-43\\T43 Bonus task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28E6C50C-BBB2-4775-95A6-4D37D92D90D2}|T43 Bonus task.csproj|c:\\users\\phat\\mycomputer\\study path\\jamk-study\\autumn 2024\\object oriented programming\\ttc8440\\tasks 31-43\\t43 bonus task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28E6C50C-BBB2-4775-95A6-4D37D92D90D2}|T43 Bonus task.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PHAT\\mycomputer\\Study Path\\JAMK-STUDY\\Autumn 2024\\Object Oriented Programming\\ttc8440\\Tasks 31-43\\T43 Bonus task\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PHAT\\mycomputer\\Study Path\\JAMK-STUDY\\Autumn 2024\\Object Oriented Programming\\ttc8440\\Tasks 31-43\\T43 Bonus task\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAmwGMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T22:07:43.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

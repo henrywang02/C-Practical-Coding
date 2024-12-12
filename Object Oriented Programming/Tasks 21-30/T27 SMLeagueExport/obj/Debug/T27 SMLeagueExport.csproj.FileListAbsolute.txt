@@ -1,0 +1,7 @@
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 21-30\T27 SMLeagueExport\bin\Debug\T27 SMLeagueExport.exe.config
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 21-30\T27 SMLeagueExport\bin\Debug\T27 SMLeagueExport.exe
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 21-30\T27 SMLeagueExport\bin\Debug\T27 SMLeagueExport.pdb
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 21-30\T27 SMLeagueExport\obj\Debug\T27 SMLeagueExport.csproj.AssemblyReference.cache
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 21-30\T27 SMLeagueExport\obj\Debug\T27 SMLeagueExport.csproj.CoreCompileInputs.cache
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 21-30\T27 SMLeagueExport\obj\Debug\T27 SMLeagueExport.exe
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 21-30\T27 SMLeagueExport\obj\Debug\T27 SMLeagueExport.pdb

@@ -1,0 +1,7 @@
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 31-43\T34 Unit test for ArrayCalculator\bin\Debug\T34 Unit test for ArrayCalculator.exe.config
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 31-43\T34 Unit test for ArrayCalculator\bin\Debug\T34 Unit test for ArrayCalculator.exe
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 31-43\T34 Unit test for ArrayCalculator\bin\Debug\T34 Unit test for ArrayCalculator.pdb
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 31-43\T34 Unit test for ArrayCalculator\obj\Debug\T34 Unit test for ArrayCalculator.csproj.AssemblyReference.cache
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 31-43\T34 Unit test for ArrayCalculator\obj\Debug\T34 Unit test for ArrayCalculator.csproj.CoreCompileInputs.cache
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 31-43\T34 Unit test for ArrayCalculator\obj\Debug\T34 Unit test for ArrayCalculator.exe
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 31-43\T34 Unit test for ArrayCalculator\obj\Debug\T34 Unit test for ArrayCalculator.pdb

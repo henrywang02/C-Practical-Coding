@@ -1,0 +1,7 @@
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 31-43\T41 MiniPeppi\bin\Debug\T41 MiniPeppi.exe.config
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 31-43\T41 MiniPeppi\bin\Debug\T41 MiniPeppi.exe
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 31-43\T41 MiniPeppi\bin\Debug\T41 MiniPeppi.pdb
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 31-43\T41 MiniPeppi\obj\Debug\T41 MiniPeppi.csproj.AssemblyReference.cache
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 31-43\T41 MiniPeppi\obj\Debug\T41 MiniPeppi.csproj.CoreCompileInputs.cache
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 31-43\T41 MiniPeppi\obj\Debug\T41 MiniPeppi.exe
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 31-43\T41 MiniPeppi\obj\Debug\T41 MiniPeppi.pdb

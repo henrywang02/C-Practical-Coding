@@ -1,0 +1,7 @@
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 1-10\T7 Washing machine\T7 Washing machine\bin\Debug\T7 Washing machine.exe.config
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 1-10\T7 Washing machine\T7 Washing machine\bin\Debug\T7 Washing machine.exe
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 1-10\T7 Washing machine\T7 Washing machine\bin\Debug\T7 Washing machine.pdb
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 1-10\T7 Washing machine\T7 Washing machine\obj\Debug\T7 Washing machine.csproj.AssemblyReference.cache
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 1-10\T7 Washing machine\T7 Washing machine\obj\Debug\T7 Washing machine.csproj.CoreCompileInputs.cache
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 1-10\T7 Washing machine\T7 Washing machine\obj\Debug\T7 Washing machine.exe
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 1-10\T7 Washing machine\T7 Washing machine\obj\Debug\T7 Washing machine.pdb

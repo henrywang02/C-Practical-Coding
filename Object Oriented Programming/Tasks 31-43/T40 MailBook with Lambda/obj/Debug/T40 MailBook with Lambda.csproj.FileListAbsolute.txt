@@ -1,0 +1,2 @@
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 31-43\T40 MailBook with Lambda\obj\Debug\T40 MailBook with Lambda.csproj.AssemblyReference.cache
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 31-43\T40 MailBook with Lambda\obj\Debug\T40 MailBook with Lambda.csproj.CoreCompileInputs.cache

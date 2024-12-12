@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T42 FishRegister", "T42 FishRegister.csproj", "{3EAAE073-7648-4EBC-9B0D-5B4CC068D6BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EAAE073-7648-4EBC-9B0D-5B4CC068D6BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EAAE073-7648-4EBC-9B0D-5B4CC068D6BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EAAE073-7648-4EBC-9B0D-5B4CC068D6BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EAAE073-7648-4EBC-9B0D-5B4CC068D6BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {692DFFD8-0154-47A3-8B53-F733E244D406}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 1-10\T2 Hill jumping\T2 Hill jumping\bin\Debug\T2 Hill jumping.exe.config
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 1-10\T2 Hill jumping\T2 Hill jumping\bin\Debug\T2 Hill jumping.exe
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 1-10\T2 Hill jumping\T2 Hill jumping\bin\Debug\T2 Hill jumping.pdb
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 1-10\T2 Hill jumping\T2 Hill jumping\obj\Debug\T2 Hill jumping.csproj.AssemblyReference.cache
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 1-10\T2 Hill jumping\T2 Hill jumping\obj\Debug\T2 Hill jumping.csproj.CoreCompileInputs.cache
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 1-10\T2 Hill jumping\T2 Hill jumping\obj\Debug\T2 Hill jumping.exe
+C:\Users\PHAT\mycomputer\Study Path\JAMK-STUDY\Autumn 2024\Object Oriented Programming\ttc8440\Tasks 1-10\T2 Hill jumping\T2 Hill jumping\obj\Debug\T2 Hill jumping.pdb
